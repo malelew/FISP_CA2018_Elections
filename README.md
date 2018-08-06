@@ -1,10 +1,10 @@
 # FISP Working Notebook
 This notebook contains the latest code for the FISP Twitter projects.
 
-## CA Gubernatorial and State Elections
-### One of the projects researches 2018 state elections
+### CA Gubernatorial and State Elections
+#### One of the projects researches 2018 state elections
 
-### Gubernatorial
+##### Gubernatorial
 The current list of announced and possible candidates that the project will be tracking are the ones listed on _La Times_ article [_California's next governor: Who's running, who's on the fence?_](http://www.latimes.com/politics/la-pol-ca-california-governor-list-2018-htmlstory.html)
 
 This is a list of the candidates listed in the article as of September 6th, 2017:
@@ -25,7 +25,7 @@ This is a list of the candidates listed in the article as of September 6th, 2017
 * [Ashley Sweargin - R](https://twitter.com/ashleycvcf)
 * [Steve Westly - D](https://twitter.com/SteveWestly)
 
-### Senate
+##### Senate
 This is a compiled list from our staff meetings and [Wikipedia](https://en.wikipedia.org/wiki/United_States_Senate_election_in_California,_2018) of likely candidates for the 2018 senate race along with people of interest in CA politics such as Kamala Harris and Jerry Brown.
 
 **Declared**
@@ -52,7 +52,7 @@ This is a compiled list from our staff meetings and [Wikipedia](https://en.wikip
 * [Caitlyn Jenner - R](https://twitter.com/Caitlyn_Jenner)
 * [Ashley Sweargin - R](https://twitter.com/ashleycvcf)
 
-### CA49 Congressional Race
+##### CA49 Congressional Race
 This is a contentious congressional race.
 
 **Democrat**
